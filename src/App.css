@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.card {
+  border: none;
+  width: 60rem;
+}
+.quest-div {
+  align-items: center;
+}
+
